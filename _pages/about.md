@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am Muhammad Arslan Manzoor, a Computer Vision Master research student, affiliated with [IVAL](https://www.ival-mbzuai.com/) lab at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI). I am working under the supervision of [Dr. Salman Khan](https://salman-h-khan.github.io/) and [Dr. Fahad Khan](https://sites.google.com/view/fahadkhans/home?pli=1&authuser=1). I am also grateful to be supervised and mentored by [Dr. Muzammal Naseer](https://muzammal-naseer.netlify.app/).
+Hi, I am Ph.D. candidate at [Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/). I am working with [Professor Preslav Nakov](https://scholar.google.com/citations?user=DfXsKZ4AAAAJ&hl=en) and [Dr. Shangsong Liang](https://scholar.google.com/citations?user=4uggVcIAAAAJ&hl=en).
 
 My research focus is on adapting foundational multi-modal models for vision tasks including image recognition, object detection and video action recognition. The goal is to steer these foundational models for downstream tasks with limited data (few-/zero-shot) while maintaining their pre-trained generalization for novel tasks. 
 
