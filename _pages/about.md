@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Vision graduate student, <a href='https://mbzuai.ac.ae/'>MBZUAI</a>, Abu-Dhabi - BSc from <a href='https://seecs.nust.edu.pk/'>SEECS, NUST</a>, Pakistan.
+subtitle: Ph.D. (NLP) candidate, <a href='https://mbzuai.ac.ae/'>MBZUAI</a>, Abu-Dhabi - Masters in AI from <a href='https://english.njust.edu.cn/'> NJUST, Nanjing</a>, China.
 
 profile:
   align: right
-  image: image_uzair_khattak.png
+  image: io_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Masdar City, Abu Dhabi </p>
