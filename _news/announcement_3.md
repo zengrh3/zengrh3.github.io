@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-our team mentored students from the Undergraduate Research Internship Program (UGRIP) on a project focused on news media profiling.
+Our team mentored students from the Undergraduate Research Internship Program (UGRIP) on a project focused on news media profiling.
