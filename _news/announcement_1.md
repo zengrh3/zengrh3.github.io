@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [MBZUAI](https://mbzuai.ac.ae/) as PhD candidated in the Natural Language Processing (NLP)
+Joined [MBZUAI](https://mbzuai.ac.ae/) as PhD candidated in the Natural Language Processing (NLP) Department.
