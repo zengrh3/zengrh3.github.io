@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Served as volunteer in EMNLP 2022 in Abu Dhabi
+Served as volunteer in EMNLP 2022 in Abu Dhabi.
