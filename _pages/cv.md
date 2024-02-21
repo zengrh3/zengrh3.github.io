@@ -4,6 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: CV_Arslan.pdf
+cv_pdf: CV_template_Arslan.pdf
 description: 
 ---
