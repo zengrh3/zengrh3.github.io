@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A Survey on Predicting the Factuality and the Bias of News Media is accepted in ACL-2024
+[A Survey on Predicting the Factuality and the Bias of News Media](https://aclanthology.org/2024.findings-acl.944/) is accepted in ACL-2024
