@@ -7,7 +7,7 @@ subtitle: Ph.D. (NLP) candidate, <a href='https://mbzuai.ac.ae/'>MBZUAI</a>, Abu
 profile:
   align: right
   image: publication_preview/io_pic0.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Masdar City, Abu Dhabi </p>
 
