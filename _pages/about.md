@@ -9,7 +9,7 @@ profile:
   image: publication_preview/io_pic0.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Masdar City, Abu Dhabi </p>
+    <p>@ Purple Mountain, Nanjing, China (2018) </p>
 
 
 news: true  # includes a list of news items
