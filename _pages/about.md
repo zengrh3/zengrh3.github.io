@@ -6,7 +6,7 @@ subtitle: Ph.D. (NLP) candidate, <a href='https://mbzuai.ac.ae/'>MBZUAI</a>, Abu
 
 profile:
   align: right
-  image: publication_preview/io_pic0.jpg
+  image: publication_preview/io_pi.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>@ Purple Mountain, Nanjing, China (2018) </p>
