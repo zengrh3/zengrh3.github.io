@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2021-08-25 15:59:00-0400
+date: 2024-07-16 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Joined [MBZUAI](https://mbzuai.ac.ae/) as PhD candidated in the Natural Language Processing (NLP) Department.
+My first paper [Enhancing graph neural networks via memorized global information](https://dl.acm.org/doi/abs/10.1145/3689430) got accepted in [ACM Transactions on the Web](https://dl.acm.org/journal/tweb).
