@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: publication_preview/IMG_4347.jpg
+  image: publication_preview/personal.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>@ Guangzhou, China </p>
