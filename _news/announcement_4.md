@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[MGM: Global Understanding of Audience Overlap Graphs for Predicting the Factuality and the Bias of News Media](https://arxiv.org/abs/2412.15266) has been accepted to NAACL 2025 as main paper (Oral) !
+[MGM: Global Understanding of Audience Overlap Graphs for Predicting the Factuality and the Bias of News Media](https://aclanthology.org/2025.naacl-long.373.pdf) has been accepted to NAACL 2025 as main paper (Oral) !

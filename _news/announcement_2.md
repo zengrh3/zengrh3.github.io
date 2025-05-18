@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We have released the paper [MGM: Global Understanding of Audience Overlap Graphs for Predicting the Factuality and the Bias of News Media](https://www.arxiv.org/abs/2412.10467).
+We have released the paper [MGM: Global Understanding of Audience Overlap Graphs for Predicting the Factuality and the Bias of News Media](https://aclanthology.org/2025.naacl-long.373.pdf).
