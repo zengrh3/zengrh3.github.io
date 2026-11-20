@@ -9,15 +9,18 @@ profile:
   image: publication_preview/personal.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>@ Guangzhou, China </p>
+    <p>MBZUAI, Abu Dhabi, UAE</p>
 
 
 news: true  # includes a list of news items
+research_experience: true
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Natural Language Processing at [MBZUAI](https://mbzuai.ac.ae/) under the supervision of Professor [Preslav Nakov](https://mbzuai.ac.ae/study/faculty/preslav-nakov/) and Professor [Xiuying Chen](https://iriscxy.github.io/). I completed my master's degree at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) under the supervison of Professor [Shangsong Liang](https://scholar.google.com/citations?user=4uggVcIAAAAJ). My research primarily focused on **Machine Learning on Graphs** and **Large Language Models (LLMs)**. Specifically, my work focuses on: (1) Combining Bayesian graphical models with variational inference to enhance graph representation learning. (2) Investigating memory mechanisms in LLM-based agents. (3) Integrating knowledge graphs to improve retrieval-augmented generation (RAG) and LLM performance for knowledge-intensive tasks.
+I am a second-year Ph.D. student in Natural Language Processing at [MBZUAI](https://mbzuai.ac.ae/), advised by Prof. [Preslav Nakov](https://mbzuai.ac.ae/study/faculty/preslav-nakov/) and Prof. [Xiuying Chen](https://iriscxy.github.io/). I completed my M.S. in Artificial Intelligence at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), advised by Prof. [Shangsong Liang](https://scholar.google.com/citations?user=4uggVcIAAAAJ).
 
- <a href="zengrh3@mail2.sysu.edu.cn">Email</a>  /  <a href="https://scholar.google.com/citations?user=hCt0gK0AAAAJ">Google Scholar</a>  /  <a href="https://github.com/zengrh3">Github</a>   /  <a href="https://zengrh3.github.io/assets/pdf/CV_RuihongZeng.pdf">CV</a> 
+My research focuses on **memory and continual adaptation in LLM agents**. I study how agents turn experience into reusable knowledge, coordinate through shared memory, and adapt across long-horizon tasks. I also work on foundation-model evaluation, multimodal fact-checking, and machine unlearning.
+
+[Email](mailto:ruihong.zeng@mbzuai.ac.ae) / [Google Scholar](https://scholar.google.com/citations?user=hCt0gK0AAAAJ) / [GitHub](https://github.com/zengrh3) / [CV]({{ '/assets/pdf/CV_RuihongZeng.pdf' | relative_url }})

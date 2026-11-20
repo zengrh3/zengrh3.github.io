@@ -137,6 +137,108 @@ blockquote {
   margin-right: 1rem;
 }
 
+.about-page {
+  .post-title {
+    font-size: clamp(2rem, 5vw, 2.5rem);
+    font-weight: 500;
+  }
+
+  article h2 {
+    font-size: 1.625rem;
+    font-weight: 500;
+  }
+}
+
+.about-intro {
+  display: grid;
+  gap: 1.25rem 2rem;
+  align-items: start;
+
+  .profile {
+    width: 100%;
+    max-width: 14rem;
+
+    figure {
+      margin-bottom: 0.5rem;
+    }
+
+    .address {
+      font: inherit;
+      font-size: 0.875rem;
+      text-align: center;
+      color: var(--global-text-color-light);
+    }
+  }
+
+  .about-bio {
+    min-width: 0;
+    line-height: 1.6;
+  }
+}
+
+@media (min-width: 768px) {
+  .about-intro--with-profile {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 14rem);
+
+    .profile {
+      grid-column: 2;
+      grid-row: 1;
+    }
+
+    .about-bio {
+      grid-column: 1;
+      grid-row: 1;
+    }
+  }
+
+  .about-intro--profile-left {
+    grid-template-columns: minmax(0, 14rem) minmax(0, 1fr);
+
+    .profile { grid-column: 1; }
+    .about-bio { grid-column: 2; }
+  }
+}
+
+.about-experience {
+  margin: 1.5rem 0 2rem;
+}
+
+.about-experience-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+
+  li + li {
+    margin-top: 1rem;
+  }
+
+  p {
+    margin-top: 0.25rem;
+    margin-bottom: 0;
+    line-height: 1.6;
+  }
+}
+
+.about-experience-heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.25rem 1rem;
+
+  h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0;
+  }
+}
+
+.about-experience-date {
+  color: var(--global-text-color-light);
+  font-size: 0.875rem;
+  white-space: nowrap;
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;

@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 
-Papers are listed below. <!-- * denote joint first authors. -->
+\* Equal contribution.
 
 <!-- _pages/publications.md -->
 <div class="publications">
